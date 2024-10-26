@@ -21,7 +21,3 @@ I am actively learning about **Generative AI** and exploring the ways it can be 
 
 ## 📫 Contact
 Feel free to connect for collaboration or to discuss Generative AI!
-
----
-
-This template provides structure and highlights your learning focus in generative AI. Let me know if you’d like any adjustments!
